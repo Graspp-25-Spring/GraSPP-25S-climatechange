@@ -1,0 +1,177 @@
+Sector,Policy_subcategory,Year,Policy_name,Instrument,Country,Break_id
+Buildings,Financing Mechanism Buildings,2018,Financing mechanism,Subsidy,Australia,AUS_2019_Buildings
+Buildings,Bans and Phaseouts Fossil Fuels Heating,2019,Ban & phase out,Regulation,Denmark,DNK_2020_Buildings
+Buildings,Financing Mechanism Buildings,2011,Financing mechanism,Subsidy,Greece,GRC_2012_Buildings
+Buildings,Fossil Fuel Subsides Buildings,2012,Fossil fuel subsidy reform,Pricing,Greece,GRC_2012_Buildings
+Buildings,BuildingEnergyCodes,2013,Building code,Regulation,Greece,GRC_2012_Buildings
+Buildings,Financing Mechanism Buildings,2011,Financing mechanism,Subsidy,Greece,GRC_2013_Buildings
+Buildings,Fossil Fuel Subsides Buildings,2012,Fossil fuel subsidy reform,Pricing,Greece,GRC_2013_Buildings
+Buildings,BuildingEnergyCodes,2013,Building code,Regulation,Greece,GRC_2013_Buildings
+Buildings,Financing Mechanism Buildings,2015,Financing mechanism,Subsidy,Ireland,IRL_2015_Buildings
+Buildings,Bans and Phaseouts Fossil Fuels Heating,2019,Ban & phase out,Regulation,Ireland,IRL_2020_Buildings
+Buildings,ETS Buildings,2016,Taxation,Pricing,NewZealand,NZL_2018_Buildings
+Buildings,Financing Mechanism Buildings,2019,Financing mechanism,Subsidy,NewZealand,NZL_2018_Buildings
+Buildings,Financial support,2013,Adoption subsidy,Subsidy,Norway,NOR_2015_Buildings
+Buildings,Fossil Fuel Subsides Buildings,2013,Fossil fuel subsidy reform,Pricing,Norway,NOR_2015_Buildings
+Buildings,Bans and Phaseouts Fossil Fuels Heating,2014,Ban & phase out,Regulation,Norway,NOR_2015_Buildings
+Buildings,BuildingEnergyCodes,2016,Building code,Regulation,Norway,NOR_2015_Buildings
+Buildings,Financial support,2017,Adoption subsidy,Subsidy,Norway,NOR_2015_Buildings
+Buildings,BuildingEnergyCodes,2020,Building code,Regulation,Poland,POL_2019_Buildings
+Buildings,Excise Taxes Buildings,2011,Taxation,Pricing,SlovakRepublic,SVK_2011_Buildings
+Buildings,Financing Mechanism Buildings,2014,Financing mechanism,Subsidy,SlovakRepublic,SVK_2015_Buildings
+Buildings,Carbon Tax Buildings,2003,Taxation,Pricing,Sweden,SWE_2004_Buildings
+Buildings,Financial support,2004,Adoption subsidy,Subsidy,Sweden,SWE_2004_Buildings
+Buildings,Financial support,2006,Adoption subsidy,Subsidy,Sweden,SWE_2004_Buildings
+Electricity,ETS Electricity,2010,Taxation,Pricing,NewZealand,NZL_2009_Electricity
+Electricity,ETS Electricity,2016,Taxation,Pricing,NewZealand,NZL_2014_Electricity
+Electricity,PlanningRenewablesExpansion,2016,Renewable planning,Regulation,NewZealand,NZL_2014_Electricity
+Electricity,Renewable energy certificates,2012,Renewable portfolio standard,Regulation,Norway,NOR_2012_Electricity
+Electricity,Renewable energy certificates,2014,Renewable portfolio standard,Regulation,Norway,NOR_2012_Electricity
+Electricity,BanPhaseOutCoal,2017,Ban & phase out,Regulation,Portugal,PRT_2019_Electricity
+Electricity,PlanningRenewablesExpansion,2017,Renewable planning,Regulation,Portugal,PRT_2019_Electricity
+Electricity,Excise Taxes Electricity,2018,Taxation,Pricing,Portugal,PRT_2019_Electricity
+Electricity,Auction,2019,Renewable subsidy,Subsidy,Portugal,PRT_2019_Electricity
+Electricity,Carbon Tax Electricity,2020,Taxation,Pricing,Portugal,PRT_2019_Electricity
+Electricity,BanPhaseOutCoal,2021,Ban & phase out,Regulation,Portugal,PRT_2019_Electricity
+Electricity,Fossil Fuel Subsidies Electricity,2021,Fossil fuel subsidy reform,Pricing,Portugal,PRT_2019_Electricity
+Electricity,Renewable energy certificates,2003,Renewable portfolio standard,Regulation,Sweden,SWE_2005_Electricity
+Electricity,Renewable energy certificates,2006,Renewable portfolio standard,Regulation,Sweden,SWE_2005_Electricity
+Electricity,Renewable energy certificates,2007,Renewable portfolio standard,Regulation,Sweden,SWE_2005_Electricity
+Electricity,AirEmissionStandards,2013,Air pollution standard,Regulation,UnitedKingdom,GBR_2015_Electricity
+Electricity,Renewable energy certificates,2013,Renewable portfolio standard,Regulation,UnitedKingdom,GBR_2015_Electricity
+Electricity,Carbon Price Floor,2014,Taxation,Pricing,UnitedKingdom,GBR_2015_Electricity
+Electricity,Feed-In-Tariffs,2014,Renewable subsidy,Subsidy,UnitedKingdom,GBR_2015_Electricity
+Electricity,PlanningRenewablesExpansion,2014,Renewable planning,Regulation,UnitedKingdom,GBR_2015_Electricity
+Electricity,Auction,2015,Renewable subsidy,Subsidy,UnitedKingdom,GBR_2015_Electricity
+Electricity,BanPhaseOutCoal,2015,Ban & phase out,Regulation,UnitedKingdom,GBR_2015_Electricity
+Electricity,Carbon Price Floor,2015,Taxation,Pricing,UnitedKingdom,GBR_2015_Electricity
+Electricity,BanPhaseOutCoal,2017,Ban & phase out,Regulation,UnitedKingdom,GBR_2015_Electricity
+Electricity,Carbon Price Floor,2014,Taxation,Pricing,UnitedKingdom,GBR_2016_Electricity
+Electricity,Feed-In-Tariffs,2014,Renewable subsidy,Subsidy,UnitedKingdom,GBR_2016_Electricity
+Electricity,PlanningRenewablesExpansion,2014,Renewable planning,Regulation,UnitedKingdom,GBR_2016_Electricity
+Electricity,Auction,2015,Renewable subsidy,Subsidy,UnitedKingdom,GBR_2016_Electricity
+Electricity,BanPhaseOutCoal,2015,Ban & phase out,Regulation,UnitedKingdom,GBR_2016_Electricity
+Electricity,Carbon Price Floor,2015,Taxation,Pricing,UnitedKingdom,GBR_2016_Electricity
+Electricity,BanPhaseOutCoal,2017,Ban & phase out,Regulation,UnitedKingdom,GBR_2016_Electricity
+Industry,Financing mechanism,2002,Financing mechanism,Subsidy,Belgium,BEL_2002_Industry
+Industry,Financing mechanism,2004,Financing mechanism,Subsidy,Belgium,BEL_2002_Industry
+Industry,Financing mechanism,2008,Financing mechanism,Subsidy,Bulgaria,BGR_2008_Industry
+Industry,Financing mechanism,2008,Financing mechanism,Subsidy,Bulgaria,BGR_2009_Industry
+Industry,Carbon Tax Industry,2007,Taxation,Pricing,Canada,CAN_2005_Industry
+Industry,ETS Industry,2007,Taxation,Pricing,Canada,CAN_2005_Industry
+Industry,Carbon tax,2017,Taxation,Pricing,France,FRA_2017_Industry
+Industry,Carbon Tax Industry,2010,Taxation,Pricing,Ireland,IRL_2009_Industry
+Industry,Financing Mechanism Industry,2014,Financing mechanism,Subsidy,Italy,ITA_2013_Industry
+Industry,EnergyEfficiencyMandates,2015,Energy efficiency mandate,Regulation,Italy,ITA_2013_Industry
+Industry,MEPS electric motors,2002,Performance standard,Regulation,NewZealand,NZL_2003_Industry
+Transport,Excise Tax Transport,2004,Taxation (driving),Pricing,Austria,AUT_2006_Transport
+Transport,Excise Tax Transport,2007,Taxation (driving),Pricing,Austria,AUT_2006_Transport
+Transport,Excise Tax Transport,2008,Taxation (driving),Pricing,Austria,AUT_2006_Transport
+Transport,Bans and Phaseouts passenger cars ICE,2018,Ban & phase out,Regulation,Denmark,DNK_2020_Transport
+Transport,Excise Tax Transport,2022,Taxation (driving),Pricing,Denmark,DNK_2020_Transport
+Transport,Excise Tax Transport,2003,Taxation (driving),Pricing,France,FRA_2004_Transport
+Transport,Excise Tax Transport,2004,Taxation (driving),Pricing,France,FRA_2004_Transport
+Transport,Taxation,2005,Taxation (vehicle),Pricing,France,FRA_2004_Transport
+Transport,Excise Tax Transport,2003,Taxation (driving),Pricing,Germany,DEU_2002_Transport
+Transport,Investment in Rail Infrastructure,2003,Public expenditure for rail,Subsidy,Germany,DEU_2002_Transport
+Transport,Excise Tax Transport,2003,Taxation (driving),Pricing,Germany,DEU_2005_Transport
+Transport,Investment in Rail Infrastructure,2003,Public expenditure for rail,Subsidy,Germany,DEU_2005_Transport
+Transport,Congestion charge,2005,Taxation (driving),Pricing,Germany,DEU_2005_Transport
+Transport,Investment in Rail Infrastructure,2010,Public expenditure for rail,Subsidy,Hungary,HUN_2011_Transport
+Transport,Excise Tax Transport,2011,Taxation (driving),Pricing,Hungary,HUN_2011_Transport
+Transport,Investment in Rail Infrastructure,2011,Public expenditure for rail,Subsidy,Hungary,HUN_2011_Transport
+Transport,Investment in Rail Infrastructure,2014,Public expenditure for rail,Subsidy,Ireland,IRL_2015_Transport
+Transport,Financial support,2017,Adoption subsidy,Subsidy,Ireland,IRL_2015_Transport
+Transport,Bans and Phaseouts passenger cars ICE,2019,Ban & phase out,Regulation,Ireland,IRL_2020_Transport
+Transport,Taxation,2019,Taxation (vehicle),Pricing,Ireland,IRL_2020_Transport
+Transport,Carbon Tax Transport,2021,Taxation (driving),Pricing,Ireland,IRL_2020_Transport
+Transport,Investment in Rail Infrastructure,2014,Public expenditure for rail,Subsidy,Norway,NOR_2016_Transport
+Transport,Bans and Phaseouts passenger cars ICE,2015,Ban & phase out,Regulation,Norway,NOR_2016_Transport
+Transport,Financial support,2015,Adoption subsidy,Subsidy,Norway,NOR_2016_Transport
+Transport,Bans and Phaseouts passenger cars ICE,2017,Ban & phase out,Regulation,Norway,NOR_2016_Transport
+Transport,Financial support,2018,Adoption subsidy,Subsidy,Norway,NOR_2016_Transport
+Transport,Subsidy,2013,Adoption subsidy,Subsidy,Poland,POL_2013_Transport
+Transport,Investment in Rail Infrastructure,2015,Public expenditure for rail,Subsidy,Poland,POL_2013_Transport
+Transport,Vehicle tax,2003,Taxation (vehicle),Pricing,Romania,ROU_2005_Transport
+Transport,Vehicle tax,2007,Taxation (vehicle),Pricing,Romania,ROU_2005_Transport
+Transport,Investment in Rail Infrastructure,2001,Public expenditure for rail,Subsidy,SlovakRepublic,SVK_2003_Transport
+Transport,Labels Passenger Cars,2004,Label ,Information,SlovakRepublic,SVK_2003_Transport
+Transport,Excise Tax Transport,2008,Taxation (driving),Pricing,Spain,ESP_2009_Transport
+Transport,Financial support,2008,Adoption subsidy,Subsidy,Spain,ESP_2009_Transport
+Transport,Taxation,2008,Taxation (vehicle),Pricing,Spain,ESP_2009_Transport
+Transport,Financial support,2011,Adoption subsidy,Subsidy,Spain,ESP_2009_Transport
+Transport,Congestion Charges,2016,Taxation (driving),Pricing,Sweden,SWE_2016_Transport
+Transport,Financial support,2018,Adoption subsidy,Subsidy,Sweden,SWE_2016_Transport
+Transport,Taxation,2018,Taxation (vehicle),Pricing,Sweden,SWE_2016_Transport
+Transport,Financial support,2006,Adoption subsidy,Subsidy,UnitedStates,USA_2008_Transport
+Transport,MEPS,2007,Performance standard,Regulation,UnitedStates,USA_2008_Transport
+Transport,Financial support,2009,Adoption subsidy,Subsidy,UnitedStates,USA_2008_Transport
+Transport,Financial support,2010,Adoption subsidy,Subsidy,UnitedStates,USA_2008_Transport
+Transport,MEPS Transport,2010,Performance standard,Regulation,UnitedStates,USA_2008_Transport
+Buildings,Carbon tax,2018,Taxation,Pricing,Argentina,ARG_2017_Buildings
+Buildings,MEPS of appliances,2016,Performance standard,Regulation,China,CHN_2018_Buildings
+Buildings,BuildingEnergyCodes,2019,Building code,Regulation,China,CHN_2018_Buildings
+Buildings,Financing Mechanism Buildings,2014,Financing mechanism,Subsidy,Colombia,COL_2013_Buildings
+Buildings,Financing Mechanism Buildings,2015,Financing mechanism,Subsidy,Colombia,COL_2013_Buildings
+Buildings,Financial support,2009,Adoption subsidy,Subsidy,SouthAfrica,ZAF_2010_Buildings
+Buildings,BuildingEnergyCodes,2011,Building code,Regulation,SouthAfrica,ZAF_2010_Buildings
+Buildings,Labels Appliances,2012,Label,Information,SouthAfrica,ZAF_2010_Buildings
+Buildings,Labels Appliances,2014,Label,Information,SouthAfrica,ZAF_2015_Buildings
+Buildings,MEPS of appliances,2014,Performance standard,Regulation,SouthAfrica,ZAF_2015_Buildings
+Buildings,MEPS of appliances,2016,Performance standard,Regulation,SouthAfrica,ZAF_2015_Buildings
+Buildings,Carbon Tax Buildings,2019,Taxation,Pricing,SouthAfrica,ZAF_2020_Buildings
+Buildings,Labels Appliances,2011,Label,Information,Turkey,TUR_2013_Buildings
+Buildings,MEPS of appliances,2011,Performance standard,Regulation,Turkey,TUR_2013_Buildings
+Buildings,Financing Mechanism Buildings,2013,Financing mechanism,Subsidy,Turkey,TUR_2013_Buildings
+Buildings,Labels Appliances,2013,Label,Information,Turkey,TUR_2013_Buildings
+Buildings,MEPS of appliances,2013,Performance standard,Regulation,Turkey,TUR_2013_Buildings
+Buildings,Labels Appliances,2015,Label,Information,Turkey,TUR_2013_Buildings
+Electricity,Auction,2014,Renewable subsidy,Subsidy,Brazil,BRA_2016_Electricity
+Electricity,Auction,2017,Renewable subsidy,Subsidy,Brazil,BRA_2016_Electricity
+Electricity,Renewable subsidy,2002,Renewable subsidy,Subsidy,Colombia,COL_2004_Electricity
+Electricity,Renewable expansion,2012,Renewable planning,Regulation,Colombia,COL_2011_Electricity
+Industry,ETS Industry,2014,Taxation,Pricing,China,CHN_2016_Industry
+Industry,Financing Mechanism Industry,2015,Financing mechanism,Subsidy,China,CHN_2016_Industry
+Industry,Fossil Fuel Subsidies Industry,2016,Fossil fuel subsidy reform,Pricing,China,CHN_2016_Industry
+Industry,EnergyEfficiencyMandates,2012,Energy efficiency mandate,Regulation,Indonesia,IDN_2013_Industry
+Industry,Fossil Fuel Subsidies Industry,2013,Fossil fuel subsidy reform,Pricing,Indonesia,IDN_2013_Industry
+Industry,EnergyEfficiencyMandates,2014,Energy efficiency mandate,Regulation,Indonesia,IDN_2013_Industry
+Industry,EnergyEfficiencyMandates,2015,Energy efficiency mandate,Regulation,SaudiArabia,SAU_2016_Industry
+Industry,MEPS electric motors,2015,Performance standard,Regulation,SaudiArabia,SAU_2016_Industry
+Industry,MEPS electric motors,2017,Performance standard,Regulation,SaudiArabia,SAU_2016_Industry
+Industry,Financing mechanism,2004,Financing mechanism,Subsidy,SouthKorea,KOR_2004_Industry
+Transport,MEPS,2008,Performance standard,Regulation,Colombia,COL_2008_Transport
+Transport,Financial support,2019,Adoption subsidy,Subsidy,Mexico,MEX_2020_Transport
+Transport,Fossil Fuel Subsidies Transport,2020,Fossil fuel subsidy reform,Pricing,Mexico,MEX_2020_Transport
+Transport,Bans and Phaseouts passenger cars ICE,2021,Ban & phase out,Regulation,Mexico,MEX_2020_Transport
+Transport,Labels Passenger Cars,2006,Label ,Information,SouthKorea,KOR_2008_Transport
+Transport,MEPS Transport,2006,Performance standard,Regulation,SouthKorea,KOR_2008_Transport
+Transport,MEPS Transport,2010,Performance standard,Regulation,SouthKorea,KOR_2008_Transport
+Buildings,EU-Labels,2004,EU-Labels,Information,CzechRepublic,CZE_2005_Buildings
+Buildings,EU-Labels,2004,EU-Labels,Information,SlovakRepublic,SVK_2003_Buildings
+Buildings,EU-Labels,2013,EU-Labels,Information,Ireland,IRL_2015_Buildings
+Electricity,EU-ETS,2005,EU-ETS,Pricing,Sweden,SWE_2005_Electricity
+Industry,EU-ETS,2007,EU-ETS,Pricing,Romania,ROU_2009_Industry
+Industry,EU-ETS,2018,EU-ETS,Pricing,France,FRA_2017_Industry
+Electricity,EU-ETS,2018,EU-ETS,Pricing,UnitedKingdom,GBR_2016_Electricity
+Buildings,EU-MEPS,2009,EU-MEPS,Regulation,SlovakRepublic,SVK_2011_Buildings
+Buildings,EU-MEPS,2013,EU-MEPS,Regulation,Ireland,IRL_2015_Buildings
+Industry,EU-MEPS,2011,EU-MEPS,Regulation,Bulgaria,BGR_2009_Industry
+Industry,EU-MEPS,2011,EU-MEPS,Regulation,CzechRepublic,CZE_2010_Industry
+Industry,EU-MEPS,2011,EU-MEPS,Regulation,Ireland,IRL_2009_Industry
+Industry,EU-MEPS,2011,EU-MEPS,Regulation,Italy,ITA_2013_Industry
+Industry,EU-MEPS,2011,EU-MEPS,Regulation,Romania,ROU_2009_Industry
+Industry,EU-MEPS,2015,EU-MEPS,Regulation,France,FRA_2017_Industry
+Industry,EU-MEPS,2015,EU-MEPS,Regulation,Italy,ITA_2013_Industry
+Transport,EU-MEPS,2009,EU-MEPS,Regulation,Spain,ESP_2009_Transport
+Transport,EU-MEPS,2009,EU-MEPS,Regulation,Hungary,HUN_2011_Transport
+Buildings,EU-Labels,2013,EU-Labels,Information,Greece,GRC_2012_Buildings
+Buildings,EU-Labels,2013,EU-Labels,Information,Greece,GRC_2013_Buildings
+Buildings,EU-Labels,2013,EU-Labels,Information,SlovakRepublic,SVK_2011_Buildings
+Buildings,EU-Labels,2013,EU-Labels,Information,SlovakRepublic,SVK_2015_Buildings
+Industry,EU-ETS,2007,EU-ETS,Pricing,Bulgaria,BGR_2008_Industry
+Industry,EU-ETS,2007,EU-ETS,Pricing,Bulgaria,BGR_2009_Industry
+Buildings,EU-MEPS,2013,EU-MEPS,Regulation,Greece,GRC_2012_Buildings
+Buildings,EU-MEPS,2013,EU-MEPS,Regulation,Greece,GRC_2013_Buildings
+Buildings,EU-MEPS,2013,EU-MEPS,Regulation,SlovakRepublic,SVK_2011_Buildings
+Buildings,EU-MEPS,2013,EU-MEPS,Regulation,SlovakRepublic,SVK_2015_Buildings
