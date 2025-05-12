@@ -8,9 +8,10 @@
     - EU27 is also included as a reference
     - * Analyses are to be held in countries with data availability in public statements
 - From 2014-2023, as Paris Agreement was taken in place in 2015.
-## Data source
+## Data source and notebooks
 - GHG inventory
     - EDGAR - GHG emissions of all world countries 2024 report (https://edgar.jrc.ec.europa.eu/report_2024)
+    - Notebook path: notebooks/edgar_ghg_inventory.ipynb
 - Public statements
     - TBC
 ## Members
