@@ -1,6 +1,8 @@
 # GraSPP-25S-climatechange
 ## Research question
 - Are public statements about climate change taken into place and providing actual results in their inventory?
+  - For GHG conscious countries like EU, they are publishing statements constantly and the nuance could be stronger
+  - For developing economies, they are less proactive about including GHG related contents in the statement, but there may be also a possibility for them to include statement when it comes to natural disasters. If they react to these disasters with some kind of climate change words, we could say they are reacting indirectly.
 ## Thesis statement
 - See the relationship between GHG emissions and frequency of GHG related words in the public statements for each country among world's top 10 GHG emitters.
 - Target Countries
