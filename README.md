@@ -1,5 +1,5 @@
 # GraSPP-25S-climatechange
-## Reserch question
+## Research question
 - Are public statements about climate change taken into place and providing actual results in their inventory?
 ## Thesis statement
 - See the relationship between GHG emissions and frequency of GHG related words in the public statements for each country among world's top 10 GHG emitters.
