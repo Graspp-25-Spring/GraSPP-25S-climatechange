@@ -17,6 +17,13 @@
 - Public statements
     - EMDAT (Disaster data) (https://public.emdat.be/)
     - Notebook path: notebooks/disaster_data.ipynb
+
+## Key GHG related words
+- Greenhouse Gas
+- GHG
+- Net-zero
+- Carbon neutral
+
 ## Members
 - SELVARAJU Akshaya
 - Sandra
