@@ -16,6 +16,8 @@
         - Notebook path: notebooks/edgar_ghg_inventory.ipynb
     - Total GHG emissions for India ( https://ourworldindata.org/grapher/total-ghg-emissions.csv?v=1&csvType=full&useColumnShortNames=true)
         - Notebook path: src/India_data.py
+    - Government Press Releases
+        - Notebook path: src/Gov_press_releases
 - Public statements
     - EMDAT (Disaster data) (https://public.emdat.be/)
     - Notebook path: notebooks/disaster_data.ipynb
