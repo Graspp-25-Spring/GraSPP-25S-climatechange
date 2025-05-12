@@ -13,7 +13,8 @@
     - EDGAR - GHG emissions of all world countries 2024 report (https://edgar.jrc.ec.europa.eu/report_2024)
     - Notebook path: notebooks/edgar_ghg_inventory.ipynb
 - Public statements
-    - TBC
+    - EMDAT (Disaster data) (https://public.emdat.be/)
+    - Notebook path: notebooks/disaster_data.ipynb
 ## Members
 - SELVARAJU Akshaya
 - Sandra
