@@ -11,7 +11,9 @@
 ## Data source and notebooks
 - GHG inventory
     - EDGAR - GHG emissions of all world countries 2024 report (https://edgar.jrc.ec.europa.eu/report_2024)
-    - Notebook path: notebooks/edgar_ghg_inventory.ipynb
+        - Notebook path: notebooks/edgar_ghg_inventory.ipynb
+    - Total GHG emissions for India ( https://ourworldindata.org/grapher/total-ghg-emissions.csv?v=1&csvType=full&useColumnShortNames=true)
+        - Notebook path: src/India_data.py
 - Public statements
     - TBC
 ## Members
