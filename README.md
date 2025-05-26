@@ -29,7 +29,7 @@
     - Notebook path: notebooks/EffectiveClimatePolicy.ipynb
 
 - Government Press Releases
-    - Notebook path: WIP
+    - Notebook path: WIP -> To be discussed on Thursday
     - EU (https://ec.europa.eu/commission/presscorner/home/en?dotyp=&keywords=GHG&commissioner=)
     - USA (https://www.whitehouse.gov/news/?s=greenhouse ; https://bidenwhitehouse.archives.gov/briefing-room/)
     - Japan (https://www.kantei.go.jp/jp/103/statement/index.html, prime minister's briefing)
