@@ -32,6 +32,8 @@
     - Notebook path: WIP
     - EU (https://ec.europa.eu/commission/presscorner/home/en?dotyp=&keywords=GHG&commissioner=)
     - USA (https://www.whitehouse.gov/news/?s=greenhouse ; https://bidenwhitehouse.archives.gov/briefing-room/)
+    - Japan (https://www.kantei.go.jp/jp/103/statement/index.html, prime minister's briefing)
+    - China (https://www.gov.cn/toutiao/liebiao/, newsroom of the people's government)
 
 ## Key GHG related words
 - Greenhouse Gas
