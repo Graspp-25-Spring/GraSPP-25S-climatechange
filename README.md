@@ -21,7 +21,7 @@
 
 - Public statements
     - EMDAT (Disaster data) (https://public.emdat.be/)
-    - Notebook path: notebooks/disaster_data.ipynb
+    - Notebook path: notebooks/20250525_Disaster_Data.ipynb
 
 - Climate policy explorer data
     - Data source: https://climate-policy-explorer.shinyapps.io/climate-policies-dashboard/download/
