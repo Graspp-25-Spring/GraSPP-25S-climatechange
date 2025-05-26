@@ -19,7 +19,7 @@
     - Total GHG emissions for India ( https://ourworldindata.org/grapher/total-ghg-emissions.csv?v=1&csvType=full&useColumnShortNames=true)
         - Notebook path: notebooks/India_GHG_data.ipynb
 
-- Public statements
+- Public statements (Disaster)
     - EMDAT (Disaster data) (https://public.emdat.be/)
     - Notebook path: notebooks/20250525_Disaster_Data.ipynb
 
