@@ -19,9 +19,9 @@
     - Total GHG emissions for India ( https://ourworldindata.org/grapher/total-ghg-emissions.csv?v=1&csvType=full&useColumnShortNames=true)
         - Notebook path: notebooks/India_GHG_data.ipynb
 
-- Public statements
+- Public statements (Disaster)
     - EMDAT (Disaster data) (https://public.emdat.be/)
-    - Notebook path: notebooks/disaster_data.ipynb
+    - Notebook path: notebooks/20250525_Disaster_Data.ipynb
 
 - Climate policy explorer data
     - Data source: https://climate-policy-explorer.shinyapps.io/climate-policies-dashboard/download/
@@ -34,6 +34,7 @@
     - USA (https://www.whitehouse.gov/news/?s=greenhouse ; https://bidenwhitehouse.archives.gov/briefing-room/)
     - Japan (https://www.kantei.go.jp/jp/103/statement/index.html, prime minister's briefing)
     - China (https://www.gov.cn/toutiao/liebiao/, newsroom of the people's government)
+    - India (https://www.pib.gov.in/allRel.aspx#)
 
 ## Key GHG related words
 - Greenhouse Gas
