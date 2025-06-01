@@ -36,6 +36,10 @@
     - China (https://www.gov.cn/toutiao/liebiao/, newsroom of the people's government)
     - India (https://www.pib.gov.in/allRel.aspx#)
 
+- Scraping and Word counting (Created for EU only by now)
+    - Scraping notebook: notebooks/EU_press_scraping.ipynb (WIP)
+    - Word counting: notebooks/EU_press_word_counting.ipynb
+
 ## Key GHG related words
 - Greenhouse Gas
 - GHG
