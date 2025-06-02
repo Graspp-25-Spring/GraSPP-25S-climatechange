@@ -3,6 +3,8 @@
 - Are public statements about climate change taken into place and providing actual results in their inventory?
   - For GHG conscious countries like EU, they are publishing statements constantly and the nuance could be stronger
   - For developing economies, they are less proactive about including GHG related contents in the statement, but there may be also a possibility for them to include statement when it comes to natural disasters. If they react to these disasters with some kind of climate change words, we could say they are reacting indirectly.
+ 
+  - https://univtokyo-my.sharepoint.com/:p:/r/personal/1246641011_utac_u-tokyo_ac_jp/_layouts/15/Doc.aspx?sourcedoc=%7BA54FC781-5F69-484E-87A2-4D65426CCBB7%7D&file=Data%20Science%20-%20Climate%20Change.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1 
 
 ## Thesis statement
 - See the relationship between GHG emissions and frequency of GHG related words in the public statements for each country among world's top 10 GHG emitters.
