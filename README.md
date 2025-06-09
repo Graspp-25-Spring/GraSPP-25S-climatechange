@@ -48,10 +48,10 @@
 - Net-zero
 - Carbon neutral
 
-## Members
-- SELVARAJU Akshaya
-- Sandra
-- Naing
+## Members and Contributions 
+- SELVARAJU Akshaya (powerpoint and GHG data analysis)
+- Sandra (NDC text analysis)
+- Naing (Disaster data analysis)
 - KOBAYASHI Daiju
-- SUGIOKA Arata
-- MO Zuanbin
+- SUGIOKA Arata (GHG and text data analysis)
+- MO Zuanbin (China data analysis)
