@@ -1,0 +1,73 @@
+country,year,vocab,count
+Japan,2014,ghg,0
+Japan,2014,greenhouse,0
+Japan,2014,net-zero,0
+Japan,2014,carbon,0
+Japan,2017,ghg,0
+Japan,2017,greenhouse,0
+Japan,2017,net-zero,0
+Japan,2017,carbon,0
+United States,1960,ghg,0
+United States,1960,greenhouse,0
+United States,1960,net-zero,0
+United States,1960,carbon,0
+United States,1964,ghg,0
+United States,1964,greenhouse,0
+United States,1964,net-zero,0
+United States,1964,carbon,0
+United States,1968,ghg,0
+United States,1968,greenhouse,0
+United States,1968,net-zero,0
+United States,1968,carbon,0
+United States,1972,ghg,0
+United States,1972,greenhouse,0
+United States,1972,net-zero,0
+United States,1972,carbon,0
+United States,1976,ghg,0
+United States,1976,greenhouse,0
+United States,1976,net-zero,0
+United States,1976,carbon,0
+United States,1980,ghg,0
+United States,1980,greenhouse,0
+United States,1980,net-zero,0
+United States,1980,carbon,2
+United States,1984,ghg,0
+United States,1984,greenhouse,0
+United States,1984,net-zero,0
+United States,1984,carbon,0
+United States,1988,ghg,0
+United States,1988,greenhouse,1
+United States,1988,net-zero,0
+United States,1988,carbon,1
+United States,1992,ghg,0
+United States,1992,greenhouse,1
+United States,1992,net-zero,0
+United States,1992,carbon,2
+United States,1996,ghg,0
+United States,1996,greenhouse,3
+United States,1996,net-zero,0
+United States,1996,carbon,0
+United States,2000,ghg,0
+United States,2000,greenhouse,1
+United States,2000,net-zero,0
+United States,2000,carbon,1
+United States,2004,ghg,0
+United States,2004,greenhouse,0
+United States,2004,net-zero,0
+United States,2004,carbon,1
+United States,2008,ghg,0
+United States,2008,greenhouse,4
+United States,2008,net-zero,0
+United States,2008,carbon,7
+United States,2012,ghg,0
+United States,2012,greenhouse,2
+United States,2012,net-zero,0
+United States,2012,carbon,3
+United States,2016,ghg,0
+United States,2016,greenhouse,6
+United States,2016,net-zero,0
+United States,2016,carbon,10
+United States,2020,ghg,0
+United States,2020,greenhouse,5
+United States,2020,net-zero,0
+United States,2020,carbon,15
