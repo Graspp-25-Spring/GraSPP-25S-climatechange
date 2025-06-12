@@ -21,6 +21,13 @@
     - Total GHG emissions for India ( https://ourworldindata.org/grapher/total-ghg-emissions.csv?v=1&csvType=full&useColumnShortNames=true)
         - Notebook path: notebooks/India_GHG_data.ipynb
 
+- Manifesto data
+    - https://manifesto-project.wzb.eu/datasets
+
+- NDC data
+    - US - 
+    - EU - 
+
 - Public statements (Disaster)
     - EMDAT (Disaster data) (https://public.emdat.be/)
     - Notebook path: notebooks/20250525_Disaster_Data.ipynb
@@ -39,8 +46,9 @@
     - India (https://www.pib.gov.in/allRel.aspx#)
 
 - Scraping and Word counting (Created for EU only by now)
-    - Scraping notebook: notebooks/EU_press_scraping.ipynb (WIP)
-    - Word counting: notebooks/EU_press_word_counting.ipynb
+    - Word counting:
+        - Manifesto data: notebooks/manifesto_data_retrieval.ipynb - US only
+        - NDC data: notebooks/ndc_data_word_count.ipynb - US and EU, one year only
 
 ## Key GHG related words
 - Greenhouse Gas
