@@ -59,7 +59,7 @@
 ## Members and Contributions 
 - SELVARAJU Akshaya (powerpoint and GHG data analysis)
 - Sandra (NDC text analysis)
-- Naing (Disaster data analysis)
+- Naing (Disaster data analysis and regression)
 - KOBAYASHI Daiju
 - SUGIOKA Arata (GHG and text data analysis)
 - MO Zuanbin (China data analysis)
