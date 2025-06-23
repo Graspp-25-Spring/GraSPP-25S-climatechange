@@ -11,7 +11,7 @@
 - Target Countries
     - China, United States, India, Russia, Brazil, Indonesia, Japan, Iran, Saudi Arabia, and Canada
     - EU27 is also included as a reference
-    - * Analyses are to be held in countries with data availability in public statements
+    - Analyses are to be held in countries with data availability in public statements
 - From 2014-2023, as Paris Agreement was taken in place in 2015.
 - **Main result includes United States and Japan data because of a data availability issue**
 
