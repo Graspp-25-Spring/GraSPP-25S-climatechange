@@ -29,7 +29,7 @@
     - EMDAT (Disaster data) (https://public.emdat.be/)
     - Notebook path: notebooks/20250525_Disaster_Data.ipynb
 
-- NDC data
+- NDC data - **FYR**
     - US
         - data/raw/United States 2035 NDC.pdf
         - data/raw/United States NDC April 21 2021 Final.pdf
@@ -37,12 +37,12 @@
         - data/raw/ES-2023-10-17 EU submission NDC update.pdf
     - Notebook path: notebooks/ndc_data_word_count.ipynb
 
-- Climate policy explorer data
+- Climate policy explorer data - **FYR**
     - Data source: https://climate-policy-explorer.shinyapps.io/climate-policies-dashboard/download/
         - Data is used to count the number of implemented policy actions by country and sector
     - Notebook path: notebooks/EffectiveClimatePolicy.ipynb
 
-- Government Press Releases
+- Government Press Releases - **FYR**
     - Sample notebook path: notebooks/selenium_sample.ipynb -> To be discussed on Thursday
     - EU (https://ec.europa.eu/commission/presscorner/home/en?dotyp=&keywords=GHG&commissioner=)
     - USA (https://www.whitehouse.gov/news/?s=greenhouse ; https://bidenwhitehouse.archives.gov/briefing-room/)
@@ -53,18 +53,18 @@
 ## Analysis and notebooks
 - Scraping and word counting
     - Manifesto data: notebooks/manifesto_data_retrieval.ipynb **Used for the main result**
-    - NDC data: notebooks/ndc_data_word_count.ipynb - US and EU, one year only
-- Main analysis (GHG emission vs word counts for US and Japan)
+    - NDC data: notebooks/ndc_data_word_count.ipynb - **FYR** US and EU, one year only
+    - Key GHG related words used for word counting
+        - Greenhouse Gas
+        - GHG
+        - Net-zero
+        - Carbon neutral
+
+- **Main analysis (GHG emission vs word counts for US and Japan)**
     - notebooks/20250622_Regression_LLM_Scrape.ipynb
     - (Old analysis including China) notebooks/20250614_Regression.ipynb
-- Extra analysis (GHG emission vs number of disasters)
+- **Extra analysis (GHG emission vs number of disasters)**
     - notebooks/20250525_Disaster_Data.ipynb 
-
-## Key GHG related words
-- Greenhouse Gas
-- GHG
-- Net-zero
-- Carbon neutral
 
 ## Members and Contributions 
 - SELVARAJU Akshaya (powerpoint and GHG data analysis)
