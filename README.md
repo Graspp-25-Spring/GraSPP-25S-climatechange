@@ -13,24 +13,29 @@
     - EU27 is also included as a reference
     - * Analyses are to be held in countries with data availability in public statements
 - From 2014-2023, as Paris Agreement was taken in place in 2015.
+- **Main result includes United States and Japan data because of a data availability issue**
 
 ## Data source and notebooks
-- GHG inventory
+- GHG inventory - **Used for the main and extra analysis**
     - EDGAR - GHG emissions of all world countries 2024 report (https://edgar.jrc.ec.europa.eu/report_2024)
         - Notebook path: notebooks/edgar_ghg_inventory.ipynb
     - Total GHG emissions for India ( https://ourworldindata.org/grapher/total-ghg-emissions.csv?v=1&csvType=full&useColumnShortNames=true)
         - Notebook path: notebooks/India_GHG_data.ipynb
 
-- Manifesto data
+- Manifesto data - **Used for the main analysis**
     - https://manifesto-project.wzb.eu/datasets
-
-- NDC data
-    - US - 
-    - EU - 
-
-- Public statements (Disaster)
+ 
+- Public statements (Disaster) - **Used for the extra analysis**
     - EMDAT (Disaster data) (https://public.emdat.be/)
     - Notebook path: notebooks/20250525_Disaster_Data.ipynb
+
+- NDC data
+    - US
+        - data/raw/United States 2035 NDC.pdf
+        - data/raw/United States NDC April 21 2021 Final.pdf
+    - EU
+        - data/raw/ES-2023-10-17 EU submission NDC update.pdf
+    - Notebook path: notebooks/ndc_data_word_count.ipynb
 
 - Climate policy explorer data
     - Data source: https://climate-policy-explorer.shinyapps.io/climate-policies-dashboard/download/
@@ -45,10 +50,15 @@
     - China (https://www.gov.cn/toutiao/liebiao/, newsroom of the people's government)
     - India (https://www.pib.gov.in/allRel.aspx#)
 
-- Scraping and Word counting (Created for EU only by now)
-    - Word counting:
-        - Manifesto data: notebooks/manifesto_data_retrieval.ipynb - US only
-        - NDC data: notebooks/ndc_data_word_count.ipynb - US and EU, one year only
+## Analysis and notebooks
+- Scraping and word counting
+    - Manifesto data: notebooks/manifesto_data_retrieval.ipynb **Used for the main result**
+    - NDC data: notebooks/ndc_data_word_count.ipynb - US and EU, one year only
+- Main analysis (GHG emission vs word counts for US and Japan)
+    - notebooks/20250622_Regression_LLM_Scrape.ipynb
+    - (Old analysis including China) notebooks/20250614_Regression.ipynb
+- Extra analysis (GHG emission vs number of disasters)
+    - notebooks/20250525_Disaster_Data.ipynb 
 
 ## Key GHG related words
 - Greenhouse Gas
